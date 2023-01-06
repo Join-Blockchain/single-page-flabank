@@ -664,8 +664,8 @@ a,
 .single-work:after,
 /*.single-price-plan .price-header,*/
 .single-faq::after {
-    background: rgba(0, 0, 0, 0) -webkit-gradient(linear, left top, right top, from(#a9030f), to(#ff000e)) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #a9030f 0%, #ff000e 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-gradient(linear, left top, right top, from(#226184), to(#003F62)) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #226184 0%, #003F62 100%) repeat scroll 0 0;
 }
 
 .pagination > li:hover a,
@@ -717,7 +717,7 @@ a,
 }
 
 .social-icons > a.google-plus {
-    background-color: #ff000e !important;
+    background-color: #003F62 !important;
 }
 
 .social-icons > a.vine {
@@ -1495,8 +1495,8 @@ a,
 .counter > span {
     font-size: 3em;
     font-weight: 600;
-    background: rgba(0, 0, 0, 0) -webkit-gradient(linear, left top, right top, from(#a80303), to(#ff0303)) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #a80303 0%, #ff0303 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-gradient(linear, left top, right top, from(#226184), to(#005c8e)) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #226184 0%, #005c8e 100%) repeat scroll 0 0;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -2169,8 +2169,8 @@ a,
 :: 23.0 FOOTER AREA CSS
 ****************************** */
 .footer-area {
-    background: rgba(0, 0, 0, 0) -webkit-gradient(linear, left top, right top, from(#a9030f), to(#ff000e)) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #a9030f 0%, #ff000e 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-gradient(linear, left top, right top, from(#226184), to(#003F62)) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #226184 0%, #003F62 100%) repeat scroll 0 0;
 }
 
 .footer-area.style-two .shape-top svg {
